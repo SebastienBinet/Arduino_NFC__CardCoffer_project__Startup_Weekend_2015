@@ -1,5 +1,5 @@
 # CardCoffer-Startup-Weekend
-Code that was used during the Montreal 2015 march startup weekend to read and write NFC cards
+Code that I have created during the Montreal 2015 march startup weekend to read and write NFC cards
 
 During the startup weekend, I joined a team that wanted to create a startup aroud NFC business card (replacing paper business cards by one NFC business card and the associated app).
 
